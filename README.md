@@ -62,7 +62,7 @@ During the development of the response logic, a race condition was identified wh
 
 This tool is intended for educational purposes and defensive research in controlled environments. The "Kill Switch" functionality will actively disconnect the host from the network. Do not deploy in production environments without proper authorization and testing.
 
-## 📸 Proof of Concept
+## Proof of Concept
 **1. Terminal Output: Detection & Isolation**
 ![Terminal Output](screenshots/terminal_output.png)
 
